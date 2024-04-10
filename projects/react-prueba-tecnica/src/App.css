@@ -7,3 +7,22 @@ main {
     margin: 0 auto;
     font-family: system-ui;
 }
+
+h1 {
+    font-family: 'Franklin Gothic Medium';
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 17px;
+    border: none;
+    border-radius: 4px;
+    background-color: #da0707;
+    color: white;
+    cursor: pointer;
+}
+
+section {
+    margin-top: 20px;
+    size-adjust: auto;
+}
